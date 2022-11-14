@@ -11,5 +11,6 @@ def password_generator():
     password_length = number_of_characters(characters)
     
 def number_of_characters(characters):
+    return 0
     
         
